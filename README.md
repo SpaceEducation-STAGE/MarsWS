@@ -3,7 +3,7 @@
 北海道企画で参加者に配布するマニュアルです。
 
 ## リンク
-[GitHub](https://github.com/meltingrabbit/CanSatForHighSchoolStudents)  
+[GitHub](https://github.com/SpaceEducation-STAGE/MarsWS/blob/main)  
 
 ## 概要
 + 高校生向け缶サット開発キット
