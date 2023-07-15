@@ -1,40 +1,13 @@
 <!-- README.md -->
 # "火星のオアシスを探そう！" プログラミングマニュアル
-北海道企画で参加者に配布するマニュアルです。
+北海道企画で宇宙教育プロジェクトSTAGEが行うWSで参加者に配布するマニュアルです。
 
 ## リンク
 [GitHub](https://github.com/SpaceEducation-STAGE/MarsWS/blob/main)  
 
 ## 概要
 + 教育用缶サットを用いたワークショップ
-+ [Arduino Nano Every](https://store.arduino.cc/usa/nano-every-with-headers)を想定
-	- Arduino Nanoでも可能だが，よりSRAMの多いEveryを用いたほうがよい．
-
-
-### Ver.2.2 （2023年版）
-Ver.2.1 から，マイクを追加するなどのマイナーアップデートをしたバージョン．
-
-
-### Ver.2.1 （2022年版）
-Ver.2 から，半導体不足等で入手困難なセンサ類を変更したバージョン．
-
-
-### Ver.2 （2021年版）
-+ Ver.1で難易度の高かった配線を簡易化するため，すべての階層に同じマイコンのピンをストレートで伸ばしたもの．
-+ これにより，層の順番の変更や，取捨選択が可能となった．
-
-<img src="./Structure/img/2021/overview_tate.jpg" width="30%"> <img src="./Structure/img/2021/overview.jpg" width="49%"> <img src="./Structure/img/2021/board_top.jpg" width="49%">
-
-
-### Ver.1 （2020年版）
-<img src="./Structure/img/2020/overview_in_bottle.jpg" width="30%"> <img src="./Structure/img/2020/overview.jpg" width="30%">
-<img src="./Structure/img/2020/board_side.jpg" width="49%">
-
-
-### 利用について
-本資料の活用については制限しておりませんが，その際には以下までご一報いただければ幸いです．
-+ melting.rabbit.mr[at]gmail.com
-
++火星の居住可能地域をローバーを用いて探索するというストーリー。プログラミングを実際に手を動かしながら学び、最終的にはローバーをプログラミングにより動かしたり、ローバーの機体に工夫を凝らしたりして将来的に人類が移住できる可能性のある「火星のオアシス」を見つけ出す。
 
 ## 搭載機器
 機器の詳細な型番などは[パーツリスト](./Structure/PartsList)を参照のこと．
