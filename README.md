@@ -6,7 +6,7 @@
 [GitHub](https://github.com/SpaceEducation-STAGE/MarsWS/blob/main)  
 
 ## 概要
-+ 高校生向け缶サット開発キット
++ 教育用缶サットを用いたワークショップ
 + [Arduino Nano Every](https://store.arduino.cc/usa/nano-every-with-headers)を想定
 	- Arduino Nanoでも可能だが，よりSRAMの多いEveryを用いたほうがよい．
 
