@@ -11,28 +11,9 @@
 
 ーーーーーーーーーーーーーーーーーーーーーー以下調整中ーーーーーーーーーーーーーーーーーーーーーーー
 
-## 搭載機器
-機器の詳細な型番などは[パーツリスト](./Structure/PartsList)を参照のこと．
-
 ### センサ
-+ GPS
-+ 9軸センサ
-+ 高度計（気圧計）
-+ 温湿度計
-+ 光センサ
-+ カメラ
-+ マイク
-
-### アクチュエータ
-+ サーボモータ
-+ DCモータ
-
-### 通信機
-+ XBee
-
-### ストレージ
-+ SDカード
-
++ 超音波センサ
+	- 物体の有無を調べる 
 
 ## 資料一覧
 + `./Arduino` ：サンプルコードとその設定など
@@ -71,21 +52,4 @@
 		* [10. Application （明るさ計）](./Arduino/ProgrammingTutorial10_Application)
 	- 実装例
 		* [明るさ計](./Arduino/App_LightMeter)
-+ `./Schematic` ：[回路図](./Schematic)
-+ `./Structure` ：[構造など](./Structure)
-	- [パーツリスト](./Structure/PartsList)
-	- [ユニ基板詳細](./Structure/board)
-	- [電源スイッチ](./Structure/switch)
-	- [テスタ](./Structure/tester)
-+ `./Archives` ：アーカイブ
-	- [2020年02月22～23日 缶サットHigh School 「缶サット電子系講座」](./Archives/2020-02-22_Fukui)
-	- [2021年06月19～20日 缶サットHigh School 「缶サット構造系講座」](./Archives/2021-06-19_Fukui)
-	- [2022年03月19～20日 缶サットHigh School 「缶サット電子系講座」](./Archives/2022-03-19_Fukui)
-	- [2023年02月18～19日 缶サットHigh School 「缶サット電子系講座」](./Archives/2023-02-18_Fukui)
 
-## ブログ
-+ [【CanSat】缶サット甲子園を目指す高校生向け電子系講座 2020年度版 @福井 [2020/02/23]](https://meltingrabbit.com/blog/article/2020022301/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け構造系講座 2020年度版 @福井 [2020/10/25]](https://meltingrabbit.com/blog/article/2020102501/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け電子系講座 2021年度版 @福井 [2021/02/14]](https://meltingrabbit.com/blog/article/2021021401/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け構造系講座 2021年度版 @福井 [2021/06/20]](https://meltingrabbit.com/blog/article/2021062001/)
-+ [【CanSat】缶サット甲子園を目指す高校生向け電子系・構造系講座 2022年度版 @福井 [2022/06/19]](https://meltingrabbit.com/blog/article/2022061901/)
