@@ -14,13 +14,15 @@
 	- 物体の有無を調べる 
 
 ## 資料一覧
++ [関数・用語一覧](f.md)
 + `./challenge` ：実際に書き換えるコード
 	- Lv.1
  	- Lv.2
 	- Lv.3
+
 + `./challenge/parts`
 	- 機器のテストコード（動作試験）
-		* [GPSの単体テスト](./Arduino/Test_GPS)
+		* [DCモーター](./challenge/DCmotor.ino)
 		* [9軸センサ (IMU) の単体テスト (BMX055)](./Arduino/Test_IMU)
 		* [9軸センサ (IMU) の単体テスト (Pololu MinIMU-9 v5)](./Arduino/Test_IMU_Pololu)
 		* [高度計（気圧計）・温湿度計の単体テスト](./Arduino/Test_Barometer_Thermohygrometer)
@@ -31,6 +33,3 @@
 		* [DCモータの単体テスト](./Arduino/Test_DCMotor)
 		* [SDカードの単体テスト](./Arduino/Test_SD)
 		* [XBee（無線通信機）の単体テスト](./Arduino/Test_XBee)
-		* 過去
-			+ [カメラ（2020年使用版）の単体テスト](./Arduino/Test_Camera_2020)
-			+ [高度計（気圧計）（2020年使用版）の単体テスト](./Arduino/Test_Barometer)
