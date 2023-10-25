@@ -14,7 +14,11 @@
 	- 物体の有無を調べる 
 
 ## 資料一覧
-+ `./Arduino` ：サンプルコードとその設定など
++ `./challenge` ：実際に書き換えるコード
+	- Lv.1
+ 	- Lv.2
+	- Lv.3
++ `./challenge/parts`
 	- 機器のテストコード（動作試験）
 		* [GPSの単体テスト](./Arduino/Test_GPS)
 		* [9軸センサ (IMU) の単体テスト (BMX055)](./Arduino/Test_IMU)
@@ -30,23 +34,3 @@
 		* 過去
 			+ [カメラ（2020年使用版）の単体テスト](./Arduino/Test_Camera_2020)
 			+ [高度計（気圧計）（2020年使用版）の単体テスト](./Arduino/Test_Barometer)
-	- 機器のテストコード（複数使用）
-		* [全機器の統合状態のテスト](./Arduino/Test)
-		* [光センサを４並列にした光方向センサ](./Arduino/Test_Light_x4)
-		* [サーボモータの２並列版](./Arduino/Test_Servo_x2)
-		* [DCモータの２並列版](./Arduino/Test_DCMotor_x2)
-	- プログラミング講習
-		* [00. 事前準備](./Arduino/ProgrammingTutorial00_Preparation)
-		* [01. HelloWorld](./Arduino/ProgrammingTutorial01_HelloWorld)
-		* [02. Variable](./Arduino/ProgrammingTutorial02_Variable)
-		* [03. Operator](./Arduino/ProgrammingTutorial03_Operator)
-		* [04. If Else](./Arduino/ProgrammingTutorial04_IfElse)
-		* [05. Loop](./Arduino/ProgrammingTutorial05_Loop)
-		* [06. Function](./Arduino/ProgrammingTutorial06_Function)
-		* [07. Device1 （高度計）](./Arduino/ProgrammingTutorial07_Device1)
-		* [08. Device2 （方位磁石）](./Arduino/ProgrammingTutorial08_Device2)
-		* [09. Device3 （サーボモータの利用）](./Arduino/ProgrammingTutorial09_Device3)
-		* [10. Application （明るさ計）](./Arduino/ProgrammingTutorial10_Application)
-	- 実装例
-		* [明るさ計](./Arduino/App_LightMeter)
-
