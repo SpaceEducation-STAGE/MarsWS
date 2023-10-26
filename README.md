@@ -15,7 +15,7 @@
 
 ## 資料一覧
 + [関数・用語一覧](f.md)
-+ CanSat搭載機器説明
++ [CanSat搭載機器 一覧](parts.md)
 + `./challenge` ：実際に書き換えるコード
 	- Lv.1
  	- Lv.2
