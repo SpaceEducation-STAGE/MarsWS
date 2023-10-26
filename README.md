@@ -17,10 +17,12 @@
 + [関数・用語一覧](f.md)
 + [CanSat搭載機器 一覧](parts.md)
 + `./challenge` ：実際に書き換えるコード
-	- Lv.1
- 	- Lv.2
-	- Lv.3
-
+	- [Lv.1](./challenge/Lv.1.ino)
+	void loop()内をのdelayやturn_Leftなどを組み合わせて目的地まで到達するプログラミングを作ろう！
+ 	- [Lv.2](./challenge/Lv.2.ino)
+    	距離に関する関数を作り、実際にタイヤを回転させるための関数を作ってみよう！
+	- [Lv.3](./challenge/Lv.3.ino)
+	モーターを制御する仕組みを理解し、モーターを自由に動かすプログラミングを作ってみよう！
 + `./challenge/parts`
 	- 機器のテストコード（動作試験）⚠️テスト次第更新
 		* [DCモーター](./challenge/DCmotor.ino)
