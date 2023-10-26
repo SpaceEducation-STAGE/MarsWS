@@ -1,1 +1,4 @@
-CanSat搭載機器説明
+# CanSat搭載機器 一覧
+
+#制御用マイコン
++ Arduino Nano Every
