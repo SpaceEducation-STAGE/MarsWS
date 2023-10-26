@@ -25,4 +25,10 @@ CanSat視点での写真を撮影したり、画像処理走行などに使わ�
 ## アクチュエータ
 + [モーター (uxcell 12v DC 50 RPM) ](https://www.amazon.co.jp/uxcell-%E3%82%AE%E3%83%A4%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC-%E9%AB%98%E3%83%88%E3%83%AB%E3%82%AF%E3%82%AE%E3%82%A2%E3%83%A2%E3%83%BC%E3%82%BF-%E9%9B%BB%E6%B0%97%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC-1%E5%80%8B%E5%85%A5%E3%82%8A/dp/B07GFHHTSL/ref=sr_1_8?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2B60XBAP022OT&keywords=uxcell+%E3%82%AE%E3%82%A2%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC+12v&qid=1697646338&sprefix=uxcell+%E3%82%AE%E3%82%A2%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC+12v%2Caps%2C151&sr=8-8)
 
++ [モータードライバ (AE-TB6612) ](https://akizukidenshi.com/catalog/g/gK-11219/)
+
+モーターを制御する機器。
+
+## 電源
++ [リポバッテリー (Zeee) ](https://www.amazon.co.jp/Zeee-2200mAh-%E3%83%A9%E3%82%B8%E3%82%B3%E3%83%B3%E8%A3%BD%E5%93%81%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC-RC%E3%83%98%E3%83%AA%E3%82%B3%E3%83%97%E3%82%BF%E3%83%BC%E7%94%A8-%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E7%94%A8%E3%81%AA%E3%81%A9%EF%BC%882%E3%83%91%E3%83%83%E3%82%AF%EF%BC%89/dp/B08XQJRFFF/ref=sr_1_4_sspa?crid=3UPZCCQ8JFUYU&keywords=%E3%83%AA%E3%83%9D%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC+7.4v&qid=1697921139&sprefix=%E3%83%AA%E3%83%9D%E3%83%90%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%2Caps%2C223&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
