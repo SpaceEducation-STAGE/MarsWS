@@ -22,7 +22,7 @@
 	- Lv.3
 
 + `./challenge/parts`
-	- 機器のテストコード（動作試験）
+	- 機器のテストコード（動作試験）⚠️テスト次第更新
 		* [DCモーター](./challenge/DCmotor.ino)
 		* [9軸センサ (IMU) の単体テスト (BMX055)](./Arduino/Test_IMU)
 		* [9軸センサ (IMU) の単体テスト (Pololu MinIMU-9 v5)](./Arduino/Test_IMU_Pololu)
