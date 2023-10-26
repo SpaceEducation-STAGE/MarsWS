@@ -16,9 +16,9 @@
 ## 資料一覧
 + [関数・用語一覧](f.md)
   
-+ [CanSat搭載機器 一覧](parts.md)
++ [CanSat搭載機器 一覧](./PartsList.md)
   
-+ `./challenge` ：実際に書き換えるコード
++ `./challenge` ：実際に書き換えるコード⚠️出来上がり次第更新
 	- [Lv.1](./challenge/Lv.1.ino)
 
 	void loop()内をのdelayやturn_Leftなどを組み合わせて目的地まで到達するプログラミングを作ろう！
@@ -30,7 +30,7 @@
 
 	モーターを制御する仕組みを理解し、モーターを自由に動かすプログラミングを作ってみよう！
 
-+ `./challenge/parts`
++ `./challenge/test`
 	- 機器のテストコード（動作試験）⚠️テスト次第更新
 		* [DCモーター](./challenge/DCmotor.ino)
 		* [9軸センサ (IMU) の単体テスト (BMX055)](./Arduino/Test_IMU)
