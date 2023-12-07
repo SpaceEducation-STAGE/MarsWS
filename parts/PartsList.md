@@ -20,7 +20,7 @@ CanSat視点での写真を撮影したり、画像処理走行などに使わ�
 
 + [超音波センサ (HC-SR04) ](https://akizukidenshi.com/catalog/g/gM-11009/)
 
-物体との距離や有無を確認する機器。
+機体の周囲にある物体を検知する機器。
 
 ## アクチュエータ
 + [モーター (uxcell 12v DC 50 RPM) ](https://www.amazon.co.jp/uxcell-%E3%82%AE%E3%83%A4%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC-%E9%AB%98%E3%83%88%E3%83%AB%E3%82%AF%E3%82%AE%E3%82%A2%E3%83%A2%E3%83%BC%E3%82%BF-%E9%9B%BB%E6%B0%97%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC-1%E5%80%8B%E5%85%A5%E3%82%8A/dp/B07GFHHTSL/ref=sr_1_8?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2B60XBAP022OT&keywords=uxcell+%E3%82%AE%E3%82%A2%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC+12v&qid=1697646338&sprefix=uxcell+%E3%82%AE%E3%82%A2%E3%83%A2%E3%83%BC%E3%82%BF%E3%83%BC+12v%2Caps%2C151&sr=8-8)
